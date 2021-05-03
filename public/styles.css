@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+}
+
+h1{
+    color: indigo;
+}
+
+#home{
+    width: 350px;
+}
